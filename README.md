@@ -6,8 +6,6 @@ Mail: joefreedy@protonmail.com
 
 <b>The detailed usage for the method will be shared on my blog.</b>
 
-<h4 align="center">Disabling an anti-debugger method.</h4>
-
 
 ## USAGE
 
@@ -17,5 +15,5 @@ Mail: joefreedy@protonmail.com
 
 ## Output
 
-<img src="https://github.com/Joefreedy/Anti-debugger-/blob/master/beforeafteroutput.PNG?raw=true"</img>
+![alt text](https://github.com/Joefreedy/Anti-debugger-/blob/master/beforeafteroutput.PNG "Output")
 
