@@ -17,6 +17,5 @@ Mail: joefreedy@protonmail.com
 
 ## Output
 
-```
 <img src="https://github.com/Joefreedy/Anti-debugger-/blob/master/beforeafteroutput.PNG?raw=true"</img>
-```
+
