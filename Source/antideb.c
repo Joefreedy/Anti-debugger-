@@ -1,6 +1,8 @@
 #include <windows.h>
 #include <stdio.h>
 
+//JoeFreedy - - - - Twitter:@oulusuyum
+
 int main (int argc, char *argv[])
 {
 	unsigned char buffer[5];
